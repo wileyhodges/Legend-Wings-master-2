@@ -116,7 +116,7 @@
 		F112A6F71E0EA2B000A5DEE9 /* EndGame.swift */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.swift; path = EndGame.swift; sourceTree = "<group>"; };
 		F112A6FF1E11FA5B00A5DEE9 /* userinfo.plist */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = text.plist.xml; name = userinfo.plist; path = ../userinfo.plist; sourceTree = "<group>"; };
 		F112A7091E16705300A5DEE9 /* Extensions.swift */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.swift; path = Extensions.swift; sourceTree = "<group>"; };
-		F16A645C1E0C96A000BC8255 /* Angelica Fighti.app */ = {isa = PBXFileReference; explicitFileType = wrapper.application; includeInIndex = 0; path = "Angelica Fighti.app"; sourceTree = BUILT_PRODUCTS_DIR; };
+		F16A645C1E0C96A000BC8255 /* Demo-Game.app */ = {isa = PBXFileReference; explicitFileType = wrapper.application; includeInIndex = 0; path = "Demo-Game.app"; sourceTree = BUILT_PRODUCTS_DIR; };
 		F16A645F1E0C96A000BC8255 /* AppDelegate.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = AppDelegate.swift; sourceTree = "<group>"; };
 		F16A64611E0C96A000BC8255 /* ViewController.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = ViewController.swift; sourceTree = "<group>"; };
 		F16A64661E0C96A000BC8255 /* Assets.xcassets */ = {isa = PBXFileReference; lastKnownFileType = folder.assetcatalog; path = Assets.xcassets; sourceTree = "<group>"; };
@@ -293,7 +293,7 @@
 		F16A645D1E0C96A000BC8255 /* Products */ = {
 			isa = PBXGroup;
 			children = (
-				F16A645C1E0C96A000BC8255 /* Angelica Fighti.app */,
+				F16A645C1E0C96A000BC8255 /* Demo-Game.app */,
 			);
 			name = Products;
 			sourceTree = "<group>";
@@ -321,9 +321,9 @@
 /* End PBXGroup section */
 
 /* Begin PBXNativeTarget section */
-		F16A645B1E0C96A000BC8255 /* Angelica Fighti */ = {
+		F16A645B1E0C96A000BC8255 /* Demo-Game */ = {
 			isa = PBXNativeTarget;
-			buildConfigurationList = F16A646E1E0C96A000BC8255 /* Build configuration list for PBXNativeTarget "Angelica Fighti" */;
+			buildConfigurationList = F16A646E1E0C96A000BC8255 /* Build configuration list for PBXNativeTarget "Demo-Game" */;
 			buildPhases = (
 				F16A64581E0C96A000BC8255 /* Sources */,
 				F16A64591E0C96A000BC8255 /* Frameworks */,
@@ -333,9 +333,9 @@
 			);
 			dependencies = (
 			);
-			name = "Angelica Fighti";
+			name = "Demo-Game";
 			productName = "Angelica Fighti";
-			productReference = F16A645C1E0C96A000BC8255 /* Angelica Fighti.app */;
+			productReference = F16A645C1E0C96A000BC8255 /* Demo-Game.app */;
 			productType = "com.apple.product-type.application";
 		};
 /* End PBXNativeTarget section */
@@ -356,7 +356,7 @@
 					};
 				};
 			};
-			buildConfigurationList = F16A64571E0C969F00BC8255 /* Build configuration list for PBXProject "Angelica Fighti" */;
+			buildConfigurationList = F16A64571E0C969F00BC8255 /* Build configuration list for PBXProject "Demo-Game" */;
 			compatibilityVersion = "Xcode 3.2";
 			developmentRegion = en;
 			hasScannedForEncodings = 0;
@@ -369,7 +369,7 @@
 			projectDirPath = "";
 			projectRoot = "";
 			targets = (
-				F16A645B1E0C96A000BC8255 /* Angelica Fighti */,
+				F16A645B1E0C96A000BC8255 /* Demo-Game */,
 			);
 		};
 /* End PBXProject section */
@@ -617,7 +617,7 @@
 /* End XCBuildConfiguration section */
 
 /* Begin XCConfigurationList section */
-		F16A64571E0C969F00BC8255 /* Build configuration list for PBXProject "Angelica Fighti" */ = {
+		F16A64571E0C969F00BC8255 /* Build configuration list for PBXProject "Demo-Game" */ = {
 			isa = XCConfigurationList;
 			buildConfigurations = (
 				F16A646C1E0C96A000BC8255 /* Debug */,
@@ -626,7 +626,7 @@
 			defaultConfigurationIsVisible = 0;
 			defaultConfigurationName = Debug;
 		};
-		F16A646E1E0C96A000BC8255 /* Build configuration list for PBXNativeTarget "Angelica Fighti" */ = {
+		F16A646E1E0C96A000BC8255 /* Build configuration list for PBXNativeTarget "Demo-Game" */ = {
 			isa = XCConfigurationList;
 			buildConfigurations = (
 				F16A646F1E0C96A000BC8255 /* Debug */,
